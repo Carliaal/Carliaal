@@ -1,7 +1,7 @@
 # Hi there, I'm Carla!
 
 <p align="center">
-  <img src="./power.gif" width="100%">
+  <img src="./Fondos Para Macbook.jpeg" width="100%">
 </p>
 
 ## 🌸 About Me
