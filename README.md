@@ -28,6 +28,16 @@ Hello! I'm a creative mind who loves blending technology with art. I specialize 
 - 💼 **Professional Growth:** Eager to land my first professional role to apply my skills and grow within a dev team.
 
 ---
+
+### 📊 Git stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Carliaal&theme=radical&background=212121&border=ff007f&stroke=ff007f&ring=ff80ab&fire=ff80ab&currStreakNum=ff80ab&currStreakLabel=ffffff&sideNums=ff80ab&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
 ### 🛠 My Tech Stack
 
 | 🎨 Frontend & Web Development | ⚙️ Backend & Databases |
@@ -42,9 +52,3 @@ Hello! I'm a creative mind who loves blending technology with art. I specialize 
 | <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | |
 
 ---
-
-
-
-
-
-
