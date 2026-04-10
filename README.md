@@ -4,7 +4,9 @@
   <img src="./Fondos Para Macbook.jpeg" width="100%">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF007F&width=435&lines=🌸+About+Me" alt="About Me" />
+<p align="left"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF007F&width=435&lines=About+Me" alt="About Me" />
+</p>
 
 Hello! I'm a creative mind who loves blending technology with art. I specialize in **Frontend Development**, where I can bring my drawings and designs to life through code.
 
@@ -15,7 +17,9 @@ Hello! I'm a creative mind who loves blending technology with art. I specialize 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF007F&width=435&lines=📚+Education+%26+Goals" alt="Education" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF007F&width=435&lines=Education+and+Goals" alt="Education" />
+</p>
 
 - 💻 **Web Application Development (DAW)**
 - ✨ **Strong preference for frontend** 
@@ -24,16 +28,21 @@ Hello! I'm a creative mind who loves blending technology with art. I specialize 
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF007F&width=435&lines=📊+Git+Stats" alt="Stats" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF007F&width=435&lines=Git+Stats" alt="Stats" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Carliaal&theme=radical&background=212121&border=ff007f&stroke=ff007f&ring=ff80ab&fire=ff80ab&currStreakNum=ff80ab&currStreakLabel=ffffff&sideNums=ff80ab&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carliaal&layout=pie&bg_color=212121&border_color=ff007f&title_color=ff80ab&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&hide=html,blade" alt="Top Languages" />
 </p>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF007F&width=435&lines=🛠+My+Tech+Stack" alt="Tech Stack" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF007F&width=435&lines=My+Tech+Stack" alt="Tech Stack" />
+</p>
 
 | 🎨 Frontend & Web | ⚙️ Backend & DB |
 | :--- | :--- |
