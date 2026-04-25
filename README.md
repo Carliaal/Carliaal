@@ -11,6 +11,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF007F&width=200&lines=About+Me&center=false&vCenter=true" align="center" />
 </p>
 
+Portfolio: [Personal portfolio](https://carliaal.github.io/Portfolio/ "View protfolio")
+
 Hello! I'm a creative mind who loves blending technology with art. I specialize in **Frontend Development**, where I can bring my drawings and designs to life through code.
 
 - 🐱 **Cat Lover:** I share my workspace with my feline friends; they are my best coding partners.
