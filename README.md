@@ -29,11 +29,10 @@ Hello! I'm a creative mind who loves blending technology with art. I specialize 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF007F&width=350&lines=Education+and+Goals&center=false&vCenter=true" align="center" />
 </p>
 
-- 💻 **Web Application Development (DAW):** 
+- 💻 **Web Application Development (DAW) (2024-2026):** 
 - ✨ **Strong preference for frontend** 
 - 🇬🇧 **Cambridge English B2 First (FCE):** 
-- 🚀 **Continuous Learning:** I am deeply enthusiastic about keeping up with new technologies and expanding my knowledge every day.
-- 💼 **Professional Growth:** Eager to land my first professional role to apply my skills and grow within a dev team.
+- 🚀 ** 3D/2D Animation, Games and Interactive Environments student (A3D) (2026-current)**
 
 ---
 
