@@ -32,7 +32,7 @@ Hello! I'm a creative mind who loves blending technology with art. I specialize 
 - 💻 **Web Application Development (DAW) (2024-2026):** 
 - ✨ **Strong preference for frontend** 
 - 🇬🇧 **Cambridge English B2 First (FCE):** 
-- 🚀 ** 3D/2D Animation, Games and Interactive Environments student (A3D) (2026-current)**
+- 🚀 **3D/2D Animation, Games and Interactive Environments student (A3D) (2026-current)**
 
 ---
 
